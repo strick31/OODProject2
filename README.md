@@ -1,2 +1,2 @@
 # OODProject2
-Author: Ryan Rice
+Author: Ryan Rice & Jarret Strickon
